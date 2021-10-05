@@ -22,7 +22,6 @@ interests:
 - Event Study Analysis
 - Social Statistics
 - Shareholder Activism
-- Public Policy Research
 - Policy and Decision Making
 
 # Social/Academic Networking

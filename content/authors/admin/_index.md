@@ -14,7 +14,7 @@ organizations:
   url: https://www.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: short bip
+bio: short bio
 
 # Interests to show in About widget
 interests:
@@ -43,7 +43,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "thomasippolito2013@u.northwestern.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

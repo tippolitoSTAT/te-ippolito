@@ -18,12 +18,12 @@ bio: short bio
 
 # Interests to show in About widget
 interests:
--	Causal Inference for Time Series Analysis
--	Event Study Methodology
--	Policy and Decision Making
--	Social Statistics
--	Shareholder Activism
--	Public Policy Research
+- Causal Inference for Time Series Analysis
+- Event Study Methodology
+- Policy and Decision Making
+- Social Statistics
+- Shareholder Activism
+- Public Policy Research
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

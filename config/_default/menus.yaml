@@ -7,13 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Teaching
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Event Study Analysis
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Shareholder Activism
     url: '#talks'
     weight: 40
   - name: Publications

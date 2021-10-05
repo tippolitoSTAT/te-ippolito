@@ -23,7 +23,7 @@ interests:
 -	Policy and Decision Making
 -	Social Statistics
 -	Shareholder Activism
-- Public Policy Research
+-	Public Policy Research
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,6 +48,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 Long Bio
 
